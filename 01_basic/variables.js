@@ -5,7 +5,13 @@ accountCity = "Jaipur"
 let userState;
 var accState;
 
-//accountID = 2 
+//accountID = 2  not allowd
+
+/*
+prefer not use to var
+because of issue in block scope and functional scope
+
+*/
 
 console.log(accountID)
 
