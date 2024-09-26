@@ -41,3 +41,36 @@ console.log(booleanIsLoggedIn);
  let stringNumber = String(someNumber)
  console.log(stringNumber);
  console.log(typeof stringNumber);
+
+
+
+ //                     ********************************** Opertation ***********************************
+
+ let values = 3
+ let negValue = -values
+// console.log(negValue);
+ 
+//  console.log(2+2);
+//  console.log(2-2);
+//  console.log(2*2);
+//  console.log(2*2*3);
+ 
+ let str1 = "Hello"
+ let str2 = "Manish"
+ 
+ let str3 = str1 + str2
+ //console.log(str3);
+ //console.log("1"+str1);
+ //console.log(1+str1);
+ 
+//  console.log("1" + 2 + 2);
+//  console.log(1 + 2 + "2");  // Abstract Operation 
+//  console.log((1 + 2) + "2");
+    console.log((3 + 4) * 5 % 3);
+
+
+    let gameCounter = 100
+    //gameCounter++; \\ prefix and postfix
+     ++ gameCounter
+   console.log(gameCounter);
+   
